@@ -70,6 +70,30 @@ Your Remote Repository:
 (5 point bonus) Shall optionally have the publisher accept a path, on the commandline, to a virtual directory on the server. Then support browsing directly from the server by supplying a url to that path when you start a browser. This works only if you setup IIS on your machine and make the path a virtual directory. The TAs will do that on the grading machines.
 
 
+Execution Instructions:
+
+prerequisites: Visual Studio 2015 0r 2017
+
+                IIS installed and then create virtual directory in IIS which points to a local system directory
+
+                Finally in the run.bat 
+
+                change the name of directory under command start MsgServer.exe  (local system directory pointed to IIS)  coderepo  9090 
+
+--->   open developer command prompt for vs2017
+
+--->   Navigate to the downloaded project location   
+
+--->   Run compile.bat
+
+--->   Run run.bat
+
+
+
+
+
+
+
                
 
 
