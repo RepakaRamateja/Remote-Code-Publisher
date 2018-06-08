@@ -139,11 +139,12 @@ Prerequisites:
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/code2.png)
 
 
-				Demonstration of Requirements:
+				   Demonstration of Requirements:
 
 
 
-------------------NOTE-----------------------
+---------------------------------------------NOTE-------------------------------------------------------------
+
 
  WHAT EVER CLIENT SENDS  SERVER SAVES IN---> ServerInputFiles FOLDER
 
@@ -154,7 +155,8 @@ Prerequisites:
  PUBLISHER  ASLO SAVES THE FILES IN GIVEN VIRTUAL DIRECTORY LOCATION
 
 
-------------DEMONSTRATION OF THE REQUIREMENTS--(REQ 9)-------------
+----------------------------------DEMONSTRATION OF THE REQUIREMENTS--(REQ 9)----------------------------------
+
 
 ON START UP CSS FILES AND JAVA SCRIPT FILES
 
