@@ -72,21 +72,25 @@ Your Remote Repository:
 
 Execution Instructions:
 
-prerequisites: Visual Studio 2015 0r 2017
+prerequisites:
 
-                IIS installed and then create virtual directory in IIS which points to a local system directory
+ Microsoft Visual Studio 2015 0r 2017
 
-                Finally in the run.bat 
+ IIS installed and then create virtual directory in IIS which points to a local system directory
 
-                change the name of directory under command start MsgServer.exe  (local system directory pointed to IIS)  coderepo  9090 
+ Finally in the run.bat 
 
---->   open developer command prompt for vs2017
+ change the name of directory under command start MsgServer.exe  (local system directory pointed to IIS)  coderepo  9090 
 
---->   Navigate to the downloaded project location   
 
---->   Run compile.bat
 
---->   Run run.bat
+               open developer command prompt for vs2017
+
+               Navigate to the downloaded project location   
+
+               Run compile.bat
+
+               Run run.bat
 
 
 
