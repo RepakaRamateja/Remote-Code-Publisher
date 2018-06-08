@@ -1,0 +1,36 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\finalprojectood\Clienthandler
+     Path: "C:\finalprojectood\Clienthandler"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      30
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           clienthandler.h       class                     ClientmHandler      63      14      20
+           clienthandler.h    function                     ClientmHandler      65       2       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         clienthandler.cpp    function                       readcMessage      27      50      10
+         clienthandler.cpp    function                           readFile     114      34       4
+         clienthandler.cpp    function                         operator()     151      25       3
+         clienthandler.cpp    function                         splitpaths      88      23       5
+         clienthandler.cpp    function                               main     182      34       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files

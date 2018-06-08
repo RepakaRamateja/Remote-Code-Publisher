@@ -1,0 +1,77 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     Mon Feb 27 16:38:23 2017
+     Path: "C:\oodproject2\nosqldb\CppProperties"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      38
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           CppProperties.h       class                           Property      56      37      11
+           CppProperties.h    function                           Property      62       2       1
+           CppProperties.h    function                           Property      63       2       1
+           CppProperties.h    function                          ~Property      64       2       1
+           CppProperties.h    function                          operator=      69       5       1
+           CppProperties.h    function                     operatorconstT      75       2       1
+           CppProperties.h    function                          newSetter      79       2       1
+           CppProperties.h    function                          newGetter      80       2       1
+           CppProperties.h    function                           getValue      82       1       1
+           CppProperties.h    function                                  ]      89       1       1
+           CppProperties.h    function                                  ]      90       1       1
+           CppProperties.h    function                         operator<<      97      11       3
+           CppProperties.h       class                           Property     118      15       8
+           CppProperties.h    function                           Property     122       2       1
+           CppProperties.h    function                           Property     123       2       1
+           CppProperties.h    function                          ~Property     124       2       1
+           CppProperties.h    function                          newGetter     125       2       1
+           CppProperties.h    function                     operatorconstT     126       2       1
+           CppProperties.h    function                           getValue     127       1       1
+           CppProperties.h    function                                  ]     130       1       1
+           CppProperties.h    function                         operator<<     137      11       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         CppProperties.cpp       class                                  X      14      15       2
+              public data: Property < std :: string > name ; 
+              public data: Property < double > isMutable ; 
+              public data: Property < const double > pi = 3 . 1415927 ; 
+              public data: Property < const std :: string > constName = "a const name" ; 
+         CppProperties.cpp    function                               show      21       7       1
+         CppProperties.cpp    function                            toUpper      41       6       1
+         CppProperties.cpp       class                  UpperCaseProperty      54      12       3
+         CppProperties.cpp    function                  UpperCaseProperty      56       4       1
+         CppProperties.cpp    function                          operator=      61       4       1
+         CppProperties.cpp       class                                  Y      68       4       1
+              public data: UpperCaseProperty name = "jim" ; 
+         CppProperties.cpp       class                                  Z      74      26       4
+         CppProperties.cpp    function                                  Z      77      21       3
+         CppProperties.cpp    function                          newSetter      79       5       1
+         CppProperties.cpp    function                          newGetter      89       7       1
+         CppProperties.cpp    function                               main     102      47       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+              public data: CppProperties.cpp : 16 - class X
+                Property < std :: string > name ; 
+              public data: CppProperties.cpp : 17 - class X
+                Property < double > isMutable ; 
+              public data: CppProperties.cpp : 18 - class X
+                Property < const double > pi = 3 . 1415927 ; 
+              public data: CppProperties.cpp : 19 - class X
+                Property < const std :: string > constName = "a const name" ; 
+              public data: CppProperties.cpp : 70 - class Y
+                UpperCaseProperty name = "jim" ; 
+
+
+    searched     2 dirs
+   processed     2 files

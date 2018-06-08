@@ -1,0 +1,55 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\finalprojectood\CommPrototype\MsgClient
+     Path: "C:\finalprojectood\CommPrototype\MsgClient"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      63
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               MsgClient.h      struct                            Iclient      56       4       1
+               MsgClient.h      struct                      clientFactory      63       3       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             MsgClient.cpp    function                          getclient     242       3       1
+             MsgClient.cpp       class                      ClientCounter      65       7       3
+             MsgClient.cpp    function                      ClientCounter      66       2       1
+             MsgClient.cpp    function                              count      67       2       1
+             MsgClient.cpp       class                          MsgClient      79      13      16
+             MsgClient.cpp    function                          MsgClient      95       6       2
+             MsgClient.cpp    function                    sendmsgtoserver     106       5       1
+             MsgClient.cpp    function                        makeMessage     121      26       3
+             MsgClient.cpp    function                        sendMessage     149       4       1
+             MsgClient.cpp    function                           sendFile     161      29       2
+             MsgClient.cpp    function                            execute     192      48       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          clientlistener.h       class                      ClientHandler      80      15      25
+          clientlistener.h    function                      ClientHandler      82       2       1
+          clientlistener.h    function                        readMessage     100      50      10
+          clientlistener.h    function                        makeMessage     154      26       3
+          clientlistener.h    function                        sendMessage     184       4       1
+          clientlistener.h    function                           readFile     234      40       3
+          clientlistener.h    function                         operator()     278      38       5
+          clientlistener.h    function                          splitpath     193      23       5
+          clientlistener.h    function                       getfilenamen     219       6       2
+          clientlistener.h    function                     startlistening     319      33       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     3 files

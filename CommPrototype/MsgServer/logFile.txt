@@ -1,0 +1,63 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\finalprojectood\CommPrototype\MsgServer
+     Path: "C:\finalprojectood\CommPrototype\MsgServer"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1     113
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+           ClientHandler.h       class                      ClientHandler      72      20      73
+           ClientHandler.h    function                      ClientHandler      74       2       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             MsgServer.cpp    function                       checkmessage      69      37       6
+             MsgServer.cpp    function                 checkdeletemessage     108      31       7
+             MsgServer.cpp    function               checkdownloadmessage     141      54      12
+             MsgServer.cpp    function                checkinitialmessage     197      16       3
+             MsgServer.cpp    function      downloadcsstovirtualdirectory     215      45       7
+             MsgServer.cpp    function                      checkvmessage     262      32       5
+             MsgServer.cpp    function                           sendFile     296      34       3
+             MsgServer.cpp    function                        readMessage     332      48      10
+             MsgServer.cpp    function                        makeMessage     383      26       3
+             MsgServer.cpp    function                        sendMessage     412       4       1
+             MsgServer.cpp    function                           readFile     433      31       3
+             MsgServer.cpp    function                         operator()     473      50      10
+             MsgServer.cpp    function                     replacesstring      30       8       2
+             MsgServer.cpp    function                          splitpath      43      23       5
+             MsgServer.cpp    function                       getfilenamen     419       6       2
+             MsgServer.cpp    function              retrivedependencylist     467       4       1
+             MsgServer.cpp    function                               main     527      46       8
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+         Serverconnector.h       class                     sClientCounter      53       7       3
+         Serverconnector.h    function                     sClientCounter      54       2       1
+         Serverconnector.h    function                              count      55       2       1
+         Serverconnector.h       class                         sMsgClient      69      13      15
+         Serverconnector.h    function                         sMsgClient      84       6       2
+         Serverconnector.h    function                    sendmsgtoserver      96       6       1
+         Serverconnector.h    function                        makeMessage     112      26       3
+         Serverconnector.h    function                        sendMessage     141       4       1
+         Serverconnector.h    function                           sendFile     153      30       2
+         Serverconnector.h    function                            execute     186      63       4
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             MsgServer.cpp    function               checkdownloadmessage     141      54      12
+         Serverconnector.h    function                            execute     186      63       4
+
+
+
+    searched     3 dirs
+   processed     3 files

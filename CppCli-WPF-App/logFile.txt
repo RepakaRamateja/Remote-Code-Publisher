@@ -1,0 +1,78 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\finalprojectood\CppCli-WPF-App
+     Path: "C:\finalprojectood\CppCli-WPF-App"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      78
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Window.h   namespace                      CppCliWindows      86     108      71
+                  Window.h       class                      WPFCppCliDemo      88     105      70
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Window.cpp    function                      WPFCppCliDemo      16      50       1
+                Window.cpp    function                setupfilemanageview      69      45       1
+                Window.cpp    function                setupclientrepoview     117      45       1
+                Window.cpp    function                     ~WPFCppCliDemo     165       5       1
+                Window.cpp    function                     setUpStatusBar     173       7       1
+                Window.cpp    function                    setUpTabControl     183      13       1
+                Window.cpp    function             setTextBlockProperties     199      17       1
+                Window.cpp    function               setButtonsProperties     218      28       1
+                Window.cpp    function               setUpSendMessageView     249       7       1
+                Window.cpp    function                        toStdString     259       6       1
+                Window.cpp    function                        sendMessage     268       6       1
+                Window.cpp    function                     toSystemString     277       6       1
+                Window.cpp    function               checkcompletemessage     314      15       3
+                Window.cpp    function               getlocalrepocontents     331      10       2
+                Window.cpp    function            openclientselectedfiles     343      23       4
+                Window.cpp    function                               each     352       5       1
+                Window.cpp    function               iisreposelecteditems     368      21       5
+                Window.cpp    function                               each     375       3       1
+                Window.cpp    function                               each     382       3       1
+                Window.cpp    function                            addText     391      33       7
+                Window.cpp    function                         getMessage     426      13       2
+                Window.cpp    function                              clear     441       5       1
+                Window.cpp    function                   getItemsFromList     449      20       5
+                Window.cpp    function                               each     456       3       1
+                Window.cpp    function                               each     464       3       1
+                Window.cpp    function                uploadfilestoserver     472      21       3
+                Window.cpp    function                               each     481       5       1
+                Window.cpp    function                    getrepocontents     497       6       1
+                Window.cpp    function                   getreposcontents     505       7       1
+                Window.cpp    function                   getselectedfiles     515      31       4
+                Window.cpp    function                               each     524       5       1
+                Window.cpp    function                  setUpFileListView     549      45       1
+                Window.cpp    function              setUpdownloadListView     597      47       1
+                Window.cpp    function                    browseForFolder     647      17       2
+                Window.cpp    function                setUpConnectionView     667       3       1
+                Window.cpp    function                   downloadcssfiles     673       6       1
+                Window.cpp    function                           OnLoaded     682       3       1
+                Window.cpp    function                          Unloading     688       3       1
+                Window.cpp    function               getonlyselectedfiles     694      32       5
+                Window.cpp    function                               each     701       3       1
+                Window.cpp    function                               each     711       5       1
+                Window.cpp    function                         getallrepo     729       8       1
+                Window.cpp    function            openfilesthroughbrowser     740      25       5
+                Window.cpp    function                               each     748       3       1
+                Window.cpp    function                               each     755       5       1
+                Window.cpp    function                          splitpath     288      23       5
+                Window.cpp    function                               main     769       6       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files

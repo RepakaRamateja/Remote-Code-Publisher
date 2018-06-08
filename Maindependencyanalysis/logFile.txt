@@ -1,0 +1,40 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\finalprojectood\Maindependencyanalysis
+     Path: "C:\finalprojectood\Maindependencyanalysis"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      30
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          Maindependency.h       class                     maindpanalysis      56     165      28
+          Maindependency.h    function                        getfilesset      63       3       1
+          Maindependency.h    function                         setfileset      69       9       2
+          Maindependency.h    function                    getonlyfilename      80      13       3
+          Maindependency.h    function                          splitpath      97      25       5
+          Maindependency.h    function                       getfilenamen     125       6       2
+          Maindependency.h    function                             insert     134      16       3
+          Maindependency.h    function                   finddependencies     153      49       8
+          Maindependency.h    function                displaydependencies     206       8       2
+          Maindependency.h    function                        getdatabase     217       3       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+          depexecutive.cpp    function                               main      22      16       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     4 dirs
+   processed     2 files

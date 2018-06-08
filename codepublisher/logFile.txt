@@ -1,0 +1,44 @@
+
+                                      CodeAnalysis - Version 1.4
+    ==============================================================================================
+     C:\finalprojectood\codepublisher
+     Path: "C:\finalprojectood\codepublisher"
+     Args: *.h, *.cpp, *.cs, /m, /r, /f
+                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      37
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Publisher.h       class                          publisher      66     324      34
+               Publisher.h    function                          publisher      77       5       1
+               Publisher.h    function                         setfileset      85       8       2
+               Publisher.h    function                      replacestring      95       8       2
+               Publisher.h    function                          splitpath     108      25       5
+               Publisher.h    function                       getfilenamen     136       6       2
+               Publisher.h    function                       split_string     146      16       2
+               Publisher.h    function                         createfile     164      35       3
+               Publisher.h    function                     addbuttonlogic     202      35       1
+               Publisher.h    function                        filecontent     240      28       5
+               Publisher.h    function                       readfromfile     271      16       2
+               Publisher.h    function                       publishfiles     290      47       4
+               Publisher.h    function                    createindexpage     340      37       3
+               Publisher.h    function            openfilesthroughbrowser     381       6       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+             Publisher.cpp    function                               main      21      17       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+
+
+
+    searched     3 dirs
+   processed     2 files
