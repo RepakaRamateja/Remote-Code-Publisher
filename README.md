@@ -101,21 +101,28 @@ Prerequisites:
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/1.PNG)
 
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/2.PNG)
  
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/3.PNG)
 
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/4.PNG)
 
+</br>
  
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/5.PNG)
 
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/6.PNG)
 
+
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/7.PNG)
 
@@ -123,9 +130,11 @@ Prerequisites:
 
  Created Html files with dependencies
 
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/code1.png)
 
+</br>
 
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/code2.png)
 
