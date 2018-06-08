@@ -72,7 +72,7 @@ Your Remote Repository:
 
 						Execution Instructions:
 
-prerequisites:
+Prerequisites:
 
  Microsoft Visual Studio 2015 0r 2017
 
@@ -83,6 +83,8 @@ prerequisites:
  change the name of directory under command start MsgServer.exe  (local system directory pointed to IIS)  coderepo  9090 
 
 
+  Steps to Execute
+
 
                open developer command prompt for vs2017
 
@@ -91,6 +93,9 @@ prerequisites:
                Run compile.bat
 
                Run run.bat
+
+
+               
 
 
 
