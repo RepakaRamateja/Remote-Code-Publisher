@@ -83,7 +83,7 @@ Prerequisites:
  change the name of directory under command start MsgServer.exe  (local system directory pointed to IIS)  coderepo  9090 
 
 
-  Steps to Execute
+  Now follow the below steps
 
 
                open developer command prompt for vs2017
@@ -95,7 +95,11 @@ Prerequisites:
                Run run.bat
 
 
+
                
+
+
+
 
 
 
