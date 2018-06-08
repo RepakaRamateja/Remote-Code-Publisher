@@ -211,7 +211,7 @@ SERVER ALSO SENDS THE MESSAGE AND CLIENT RECIEVES IT
 
 </br>
 
----------------------------------- DEMONTRATION FOR REQUIREMENT 3 AND 4 ------------------------------------------
+---------------------------------- DEMONTRATION FOR REQUIREMENT 3 AND 4 ----------------------------------------
 
 </br>
 
@@ -223,7 +223,9 @@ AND GENERATED HTML FILES WHICH SATISFIES PROJECT 3 REQUIREMENTS
 
 ------ USING EXTERNAL CSS AND JAVA SCRIPT FILES ETC
 
-<------------DEMONSTRATION FOR REQUIREMENT 6------------------------>
+</br>
+
+---------------------------------  DEMONSTRATION FOR REQUIREMENT 6 ----------------------------------------------
 
  GO TO THE TAB--->DOWNLOAD
 
@@ -231,8 +233,7 @@ AND GENERATED HTML FILES WHICH SATISFIES PROJECT 3 REQUIREMENTS
 
  NOW WHATEVER CONTENTS PRESENT IN SERVER REPO ARE DISPLAYED IN LISTBOX
 
-
----------------------------------------------------------------------
+</br>
 
  CREATED A TAB FOR VIEWING ALL DOWNLOADED FILES
 
@@ -240,7 +241,7 @@ GO TO THE TAB--->CLIENT LOCAL REPO
 
 CLICK ON BUTTON --->GET LOCAL REPO CONTENTS
 
-NOW SELECT SOME FILES
+ NOW SELECT SOME FILES
 
  NOW CLICK---> OPEN FILES BUTTON
 
@@ -249,7 +250,7 @@ NOW SELECT SOME FILES
 </br>
 
 
----------------- DEMONSTRATION FOR REQUIREMENT 7--------------------------
+----------------------------------- DEMONSTRATION FOR REQUIREMENT 7 ---------------------------------------------
 
 </br>
 
@@ -276,7 +277,7 @@ LIKE GETTING IIS FOLDER DETAILS ETC
 </br>
 
 
-----------------DEMONSTRATION FOR REQUIREMENT 10-------------------->
+------------------------------------ DEMONSTRATION FOR REQUIREMENT 10-----------------------------------------------
 
 </br>
 
@@ -328,6 +329,8 @@ TO CONFIRM CHECK ../Serveroutputfiles DIRECTORY
 
 THIS SHOWS THAT FILE IS DELETED
 
+</br>
+
 ------------------DEMONSTRATION FOR IIS REQUIREMENT(REQUIREMENT 11)------------
 
 </br>
@@ -348,9 +351,8 @@ SELECT ANY FILES AND CLICK ON -------> OPEN FILES BUTTON
 
 NOW FILES WILL BE OPENED THROUGH BROWSER
 
- YOU CAN ALSO FILTER THE FILES USING BUTTON------->SHOW SELECTED FILES
-Press any key to continue . . .
- 
+YOU CAN ALSO FILTER THE FILES USING BUTTON------->SHOW SELECTED FILES
+
  
 
 
