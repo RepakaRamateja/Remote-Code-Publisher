@@ -31,9 +31,15 @@ On starting, will download style sheet and JavaScript files from the Repository.
 Note that your client does not need to supply the functionality to display web pages. It simply starts a browser to do that. Browsers will accept a file name, which probably includes a relative path to display a web page from the local directory.
 You could also start IIS web server and provide an appropriate URL to the browser on startup. Either approach is acceptable. If you use IIS, you won't have to download files, but you are obligated to show that you can do that.
 
-Reference: http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE687/Lectures/Project3-S2017.htm
+Reference: 
+           
+           http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE687/Lectures/Project2-S2017.htm
+
+           http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE687/Lectures/Project3-S2017.htm
+
            http://www.ecs.syr.edu/faculty/fawcett/handouts/CSE687/Lectures/Project4-S2017.htm
 
+</br>
 
 						   Requirements:
 
