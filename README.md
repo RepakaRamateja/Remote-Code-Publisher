@@ -139,8 +139,8 @@ Prerequisites:
  ![alt text](https://github.com/RepakaRamateja/Remote-Code-Publisher/blob/master/images/code2.png)
 
 
-								Demonstration of Requirements:
-								
+				Demonstration of Requirements:
+
 
 
 ------------------NOTE-----------------------
