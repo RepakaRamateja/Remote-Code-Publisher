@@ -86,7 +86,7 @@ Prerequisites:
   Now follow the below steps
 
 
-               open developer command prompt for vs2017
+               open developer command prompt for vs2017 by administrator mode
 
                Navigate to the downloaded project location   
 
@@ -97,6 +97,10 @@ Prerequisites:
 
 
                
+
+
+
+
 
 
 
