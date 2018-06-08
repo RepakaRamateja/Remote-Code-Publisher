@@ -143,8 +143,9 @@ Prerequisites:
 
 
 
----------------------------------------------NOTE-------------------------------------------------------------
+--------------------------------------------- NOTE -------------------------------------------------------------
 
+</br>
 
  WHAT EVER CLIENT SENDS  SERVER SAVES IN---> ServerInputFiles FOLDER
 
@@ -155,8 +156,9 @@ Prerequisites:
  PUBLISHER  ASLO SAVES THE FILES IN GIVEN VIRTUAL DIRECTORY LOCATION
 
 
-----------------------------------DEMONSTRATION OF THE REQUIREMENTS--(REQ 9)----------------------------------
+--------------------------------  DEMONSTRATION OF THE REQUIREMENTS--(REQ 9) -----------------------------------
 
+</br>
 
 ON START UP CSS FILES AND JAVA SCRIPT FILES
 
@@ -168,8 +170,10 @@ OTHERWISE CHECK THE TIME STAMP IN clienthtmlfiles FOLDER
 
 GIVEN VIRTUAL DIRECTORY FOLDER
 
+</br>
 
------------------ DEMONSTRATION FOR REQUIREMENT 5-----------------------
+---------------------------------  DEMONSTRATION FOR REQUIREMENT 5 ---------------------------------------------
+</br>
 
 GO TO THE TAB----->FILE UPLOAD LIST
 
@@ -187,7 +191,9 @@ NOW FILES ARE BEING TRANSFERRED FROM CLIENT TO SERVER
 
 PLEASE OBSERVE THE CONSOLES WHICH CLEARLY DEMONSTRATES THIS REQUIREMENT
 
------------------ IT ALSO SATISFIES REQUIREMENT 8------------------------
+</br>
+
+----------------------------------- IT ALSO SATISFIES REQUIREMENT 8 ----------------------------------------------
 
 INPUT FILES ARE SAVED IN THE LOCATION ../ServerInputFiles folder
 
@@ -201,7 +207,7 @@ SEE THE SERVER CONSOLE WHICH RECIEVED THE MESSAGE FIRST THAN THE FILE
 
 SERVER ALSO SENDS THE MESSAGE AND CLIENT RECIEVES IT
 
----------------DEMONTRATION FOR REQUIREMENT 3 AND 4-------------------
+---------------------------------- DEMONTRATION FOR REQUIREMENT 3 AND 4 ------------------------------------------
 
 CODE FILES ARE PUBLISHED IN THE LOCATION ../Serveroutputfiles
 
