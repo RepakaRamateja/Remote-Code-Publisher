@@ -70,7 +70,7 @@ Your Remote Repository:
 (5 point bonus) Shall optionally have the publisher accept a path, on the commandline, to a virtual directory on the server. Then support browsing directly from the server by supplying a url to that path when you start a browser. This works only if you setup IIS on your machine and make the path a virtual directory. The TAs will do that on the grading machines.
 
 
-Execution Instructions:
+						Execution Instructions:
 
 prerequisites:
 
