@@ -34,6 +34,39 @@ You could also start IIS web server and provide an appropriate URL to the browse
 
 						   Requirements:
 
+Your Remote Repository:
+
+(2) Shall use Visual Studio 2015 and its C++ Windows console projects, as provided in the ECS computer labs. You must also use Windows Presentation Foundation (WPF) to provide a required client Graphical User Interface (GUI).
+
+
+(1) Shall use the C++ standard library's streams for all console I/O and new and delete for all heap-based memory management.
+
+
+(3) Shall provide a Repository program that provides functionality to publish, as linked web pages, the contents of a set of C++ source code files.
+
+
+(4) Shall, for the publishing process, satisfy the requirements of CodePublisher developed in Project #3.
+
+
+(4) Shall provide a Client program that can upload files3, and view Repository contents, as described in the Purpose section, above.
+
+
+(3) Shall provide a message-passing communication system, based on Sockets, used to access the Repository's functionality from another process or machine.
+
+
+(2) The communication system shall provide support for passing HTTP style messages using either synchronous request/response or asynchronous one-way messaging.
+
+
+(1) The communication system shall also support sending and receiving streams of bytes6. Streams will be established with an initial exchange of messages.
+
+
+(5) Shall include an automated unit test suite that demonstrates you meet all the requirements of this project4 including the transmission of files.
+
+
+(5 point bonus) Shall optionally use a lazy download strategy, that, when presented with a name of a source code web page, will download that file and all the files it links to. This allows you to demonstrate your project using local webpages instead of downloading the entire contents of the Code Publisher for demonstration.
+
+
+(5 point bonus) Shall optionally have the publisher accept a path, on the commandline, to a virtual directory on the server. Then support browsing directly from the server by supplying a url to that path when you start a browser. This works only if you setup IIS on your machine and make the path a virtual directory. The TAs will do that on the grading machines.
 
 
                
